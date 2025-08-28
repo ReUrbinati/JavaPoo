@@ -1,0 +1,27 @@
+body{
+    background-image: url(./imagem4.png);
+    background-size : cover;
+    background-repeat: no-repeat;
+    /* background-position: ; */
+}
+
+table{
+    background-color: rgba(8, 8, 8, 0.806);
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 50px;
+    padding: 20px;
+    width: 80%;
+}
+th{
+    background-color: rgba(41, 110, 248, 0.902);
+    color: black;
+    padding: 10px;
+    text-align: center;
+}
+td{
+    background-color: rgba(126, 49, 234, 0.5);
+    color: black;
+    padding: 10px;
+    text-align: center;
+}
